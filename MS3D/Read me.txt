@@ -1,0 +1,24 @@
+*****************************************************************
+*	APRON TUTORIALS PRESENTED BY MORROWLAND			*
+*****************************************************************
+*	Project Name		: MS3D Loader			*
+*	Project Description	: Load MS3D Models		*
+*	Project Type		: OpenGL			*
+*	Author			: Ronny André Reierstad		*
+*	Web Page		: www.morrowland.com		*
+*	E-Mail			: apron@morrowland.com		*
+*	Version			: English (UK)			*
+*	Date			: 14.11.2002			*
+*****************************************************************
+
+This tutorial demonstrates how to load the main Milkshape 3D format ms3d-files,
+with jpeg textures.
+
+Thanks to Brett Porter for his Milkshape Model Loading tutorial at NeHe.
+Thanks to Mete Ciragan for creating the Milkshape format.
+
+-----------------------------------------------------------------
+Regards
+Ronny André Reierstad
+www.morrowland.com
+apron@morrowland.com
